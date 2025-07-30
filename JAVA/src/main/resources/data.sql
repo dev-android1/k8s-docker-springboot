@@ -1,0 +1,10 @@
+INSERT IGNORE INTO users (id, name, email) VALUES (1, 'Ashish', 'ashish@gmail.com');
+INSERT IGNORE INTO users (id, name, email) VALUES (2, 'Ankit', 'ankit@gmail.com');
+INSERT IGNORE INTO users (id, name, email) VALUES (3, 'Advika', 'advika@gmail.com');
+INSERT IGNORE INTO users (id, name, email) VALUES (4, 'Ishika', 'ishika@gmail.com');
+INSERT IGNORE INTO users (id, name, email) VALUES (5, 'Abhishek', 'abhishek@gmail.com');
+INSERT IGNORE INTO users (id, name, email) VALUES (6, 'Ravi', 'ravi@gmail.com');
+INSERT IGNORE INTO users (id, name, email) VALUES (7, 'Shivani', 'shivani@gmail.com');
+INSERT IGNORE INTO users (id, name, email) VALUES (8, 'Riddham', 'riddham@gmail.com');
+INSERT IGNORE INTO users (id, name, email) VALUES (9, 'Sahil', 'sahil@gmail.com');
+INSERT IGNORE INTO users (id, name, email) VALUES (10, 'Priyanshu', 'priyanshu@gmail.com');
